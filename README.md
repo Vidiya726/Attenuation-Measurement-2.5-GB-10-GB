@@ -5,7 +5,6 @@
 - Calculate the attenuation-limited fiber length based on the power budget equation.  
 - Simulate the resulting system and verify that it meets performance objectives.
 
----
 
 ## Theory
 The **power budget equation** states that the power budget in a transmission system must equal the sum of all power losses plus the power margin.  
@@ -20,7 +19,7 @@ The **receiver sensitivity** is defined as the minimum power required to achieve
 - Receiver sensitivity depends on the bit rate.  
 - Fiber attenuation depends on the operating wavelength.  
 
----
+
 
 ## Pre-lab Calculations
 Using the power budget equation and the parameters below, determine the attenuation-limited fiber length:
@@ -35,7 +34,6 @@ Using the power budget equation and the parameters below, determine the attenuat
 - **Additional known losses:** 0 dB  
 - **Power margin:** 6 dB  
 
----
 
 ## Layout
 - The system has been created using **OptiSystem** and exported as an **OptiPerformer** file.  
@@ -47,7 +45,6 @@ Using the power budget equation and the parameters below, determine the attenuat
 - To set the receiver sensitivity to -30 dBm for 2.5 Gb/s, set the **thermal noise parameter** in the receiver to **8.97e-24 W/Hz**.  
 - Visualizer components are included to obtain necessary simulation data.  
 
----
 
 ## Simulation
 1. Run the simulation and record:
@@ -60,7 +57,7 @@ Using the power budget equation and the parameters below, determine the attenuat
      - Eye diagram  
 
 2. Set the fiber length to **125% of the calculated pre-lab value** and repeat the simulation and data recording.  
----
+
 
 ## Analysis and Report
 Compare simulation results with pre-lab calculations and record observations.  
@@ -69,6 +66,8 @@ Vidiya Rupeni G
 <img width="1918" height="1025" alt="Screenshot 2026-05-22 091821" src="https://github.com/user-attachments/assets/6e53d2cf-00da-4650-a4a6-45e94dffbefb" />
 
 <img width="1094" height="1280" alt="WhatsApp Image 2026-05-22 at 9 24 34 AM" src="https://github.com/user-attachments/assets/1dc26cba-7711-491e-aab0-f040616c9c1b" />
+
   
 ## Result:
+Thus the Experiment was succesfully completed and output is verified.
 
