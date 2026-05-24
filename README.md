@@ -60,20 +60,15 @@ Using the power budget equation and the parameters below, determine the attenuat
      - Eye diagram  
 
 2. Set the fiber length to **125% of the calculated pre-lab value** and repeat the simulation and data recording.  
-<img width="1918" height="1025" alt="Screenshot 2026-05-22 091821" src="https://github.com/user-attachments/assets/6e53d2cf-00da-4650-a4a6-45e94dffbefb" />
-
 ---
 
 ## Analysis and Report
 Compare simulation results with pre-lab calculations and record observations.  
+Vidiya Rupeni G
 
-Your report should contain:
-- **Cover Page**
-  - Title of the lab  
-  - Course name and number  
-  - Your name  
+<img width="1918" height="1025" alt="Screenshot 2026-05-22 091821" src="https://github.com/user-attachments/assets/6e53d2cf-00da-4650-a4a6-45e94dffbefb" />
 
-- **Pre-lab Calculations**  
 <img width="1094" height="1280" alt="WhatsApp Image 2026-05-22 at 9 24 34 AM" src="https://github.com/user-attachments/assets/1dc26cba-7711-491e-aab0-f040616c9c1b" />
   
-- **Written Summary** of observations and explanations of differences.  
+## Result:
+
